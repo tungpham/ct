@@ -1,0 +1,21 @@
+{"id":1,"x":50,"y":50,"content":"content of node 1"}
+{"id":2,"x":100,"y":100,"content":"content of node 2"}
+{"id":3,"x":86,"y":212.1999969482422,"content":"this is the content of node 3"}
+{"id":4,"x":241,"y":220.1999969482422,"content":"this is the content of node 4fsafsafd"}
+{"id":5,"x":103,"y":331.20001220703125,"content":"this is the content of node 5"}
+{"id":6,"x":353,"y":302.20001220703125,"content":"this is the content of node 6fdsfa"}
+{"id":7,"x":387,"y":146.1999969482422,"content":"this is tfdshe content of node 7"}
+{"id":8,"x":278,"y":95.19999694824219,"content":"this is the content of node 8aaaa"}
+{"id":9,"x":418,"y":195.1999969482422,"content":"this is the content of node 9"}
+{"id":10,"x":232,"y":411.20001220703125,"content":"this is the content of node 10"}
+{"id":11,"x":464,"y":287.20001220703125,"content":"this is the content of node 11"}
+{"id":"1-2","src":{"id":1,"x":50,"y":50,"content":"content of node 1"},"dest":{"id":2,"x":100,"y":100,"content":"content of node 2"},"label":"START","left":false,"right":true}
+{"id":"2-3","src":{"id":2,"x":100,"y":100,"content":"content of node 2"},"dest":{"id":3,"x":86,"y":212.1999969482422,"content":"this is the content of node 3"},"label":"YES","left":false,"right":true}
+{"id":"2-4","src":{"id":2,"x":100,"y":100,"content":"content of node 2"},"dest":{"id":4,"x":241,"y":220.1999969482422,"content":"this is the content of node 4fsafsafd"},"label":"YES","left":false,"right":true}
+{"id":"4-8","src":{"id":4,"x":241,"y":220.1999969482422,"content":"this is the content of node 4fsafsafd"},"dest":{"id":8,"x":278,"y":95.19999694824219,"content":"this is the content of node 8aaaa"},"label":"YES","left":false,"right":true}
+{"id":"4-7","src":{"id":4,"x":241,"y":220.1999969482422,"content":"this is the content of node 4fsafsafd"},"dest":{"id":7,"x":387,"y":146.1999969482422,"content":"this is tfdshe content of node 7"},"label":"YES","left":false,"right":true}
+{"id":"4-9","src":{"id":4,"x":241,"y":220.1999969482422,"content":"this is the content of node 4fsafsafd"},"dest":{"id":9,"x":418,"y":195.1999969482422,"content":"this is the content of node 9"},"label":"YES","left":false,"right":true}
+{"id":"4-6","src":{"id":4,"x":241,"y":220.1999969482422,"content":"this is the content of node 4fsafsafd"},"dest":{"id":6,"x":353,"y":302.20001220703125,"content":"this is the content of node 6fdsfa"},"label":"YES","left":false,"right":true}
+{"id":"3-5","src":{"id":3,"x":86,"y":212.1999969482422,"content":"this is the content of node 3"},"dest":{"id":5,"x":103,"y":331.20001220703125,"content":"this is the content of node 5"},"label":"YES","left":false,"right":true}
+{"id":"7-9","src":{"id":7,"x":387,"y":146.1999969482422,"content":"this is tfdshe content of node 7"},"dest":{"id":9,"x":418,"y":195.1999969482422,"content":"this is the content of node 9"},"label":"YES","left":false,"right":true}
+{"id":"7-11","src":{"id":7,"x":387,"y":146.1999969482422,"content":"this is tfdshe content of node 7"},"dest":{"id":11,"x":464,"y":287.20001220703125,"content":"this is the content of node 11"},"label":"HAHA","left":false,"right":true}

@@ -1,0 +1,20 @@
+1 | content of node 1 | 2 (START) 
+2 | content of node 2 | 3 (YES)  | 4 (YES) 
+3 | this is the content of node 3
+4 | this is the content of node 4 | 5 (YES)  | 6 (YES) 
+5 | this is the content of node 5 | 9 (YES)  | 11 (YES)  | 10 (YES)  | 19 (YES) 
+6 | this is the content of node 6 | 18 (YES)  | 10 (YES)  | 14 (YES) 
+7 | this is the content of node 7
+8 | this is the content of node 8
+9 | this is the content of node 9
+10 | this is the content of node 10
+11 | this is the content of node 11
+12 | this is the content of node 12 | 13 (YES) 
+13 | this is the content of node 13 | 16 (YES) 
+14 | this is the content of node 14 | 15 (YES)  | 20 (YES) 
+15 | this is the content of node 15
+16 | this is the content of node 16
+17 | this is the content of node 17 | 16 (YES) 
+18 | this is the content of node 18 | 16 (YES) 
+19 | this is the content of node 19
+20 | this is the content of node 20 | 7 (YES)  | 8 (YES) 
