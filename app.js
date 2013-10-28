@@ -9,6 +9,7 @@ var width  = '100%',
  
 var r = 20;
 
+/** @constructor */
 function node(obj) {
   this.id = obj.id;
   this.x = obj.x;
@@ -16,6 +17,7 @@ function node(obj) {
   this.content = obj.content;
 };
 
+/** @constructor */
 function link(obj) {
   this.id = obj.id;
   this.src = obj.src;
