@@ -1,5 +1,0 @@
-{"id":1,"x":50,"y":50,"content":"content of node 1"}
-{"id":2,"x":100,"y":100,"content":"content of node 2"}
-{"id":3,"x":72,"y":269.20001220703125,"content":"this is the content of node 3"}
-{"id":"1-2","src":{"id":1,"x":50,"y":50,"content":"content of node 1"},"dest":{"id":2,"x":100,"y":100,"content":"content of node 2"},"label":"START","left":false,"right":true}
-{"id":"2-3","src":{"id":2,"x":100,"y":100,"content":"content of node 2"},"dest":{"id":3,"x":72,"y":269.20001220703125,"content":"this is the content of node 3"},"label":"YES","left":false,"right":true}
